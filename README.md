@@ -2,6 +2,8 @@
 
 AI_Pet 是一款带有 AI 对话与日程提醒能力的桌面宠物应用。
 
+本项目基于 [zenghongtu/PPet](https://github.com/zenghongtu/PPet) 进行二次开发。
+
 ## 项目展示
 
 ### 桌宠互动
